@@ -9,5 +9,5 @@ j.each do |l|
   filename = i.to_s.rjust(4, '0') + "-" + fn.gsub!("/", "") + ".pdf"
   i += 1
   puts filename
-  `phantomjs render.js "#{l}" #{filename}`
+  `phantomjs ../_render.js "#{l}" #{filename}`
 end
