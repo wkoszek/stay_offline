@@ -19,6 +19,15 @@ submitting stuff here.
 but don't support offline mode well. So `nsscreencast/` has a script which
 will take your user name and password.
 
+## How to use
+
+To workaround Homebrew `gs_init.ps` bug, download Ghostscript 9.19 to `_gs`
+directory and unpack it there, and then set:
+
+```
+export GS_LIB=`pwd`/_gs/ghostscript-9.19/Resource/Init/"
+```
+
 ## Currently supported
 
 - [alertbox/](alertbox)  Nielsen Norman Group "Alertbox" articles
