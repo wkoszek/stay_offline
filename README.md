@@ -1,4 +1,6 @@
-# Stay Offline and Study
+# Stay_Offline
+
+**Scripts to help you stay productive offline**
 
 This repository has scripts which will make you more productive offline.
 Each individual directory is named with a site name.
