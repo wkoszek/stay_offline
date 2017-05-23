@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# This is incomplete support for BitFountain
+
 require "mechanize"
 require "parallel"
 
