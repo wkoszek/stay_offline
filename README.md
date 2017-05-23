@@ -33,7 +33,7 @@ export GS_LIB=`pwd`/_gs/ghostscript-9.19/Resource/Init/
 ## Currently supported
 
 | **Website** | **Description** |
-|----+------------|
+|-------------|-----------------|
 | [alertbox/](alertbox)  | Nielsen Norman Group "Alertbox" articles |
 | [alistapart](alistapart) | A List Apart articles |
 | [indiehackers](indiehackers/) | Indie Hackers interviews |
