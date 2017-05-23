@@ -32,8 +32,11 @@ export GS_LIB=`pwd`/_gs/ghostscript-9.19/Resource/Init/
 
 ## Currently supported
 
-- [alertbox/](alertbox)  Nielsen Norman Group "Alertbox" articles
-- [alistapart](alistapart) A List Apart articles
-- [indiehackers](indiehackers/) Indie Hackers interviews
-- [bitfountain](bitfountain/) Bitfountain Autolayout tutorials (incomplete; didn't have a patience to figure out what they do)
-- [nsscreencast](nsscreencast/) NSScreencasts
+| **Website** | **Description** |
+|----+------------|
+| [alertbox/](alertbox)  | Nielsen Norman Group "Alertbox" articles |
+| [alistapart](alistapart) | A List Apart articles |
+| [indiehackers](indiehackers/) | Indie Hackers interviews |
+| [bitfountain](bitfountain/) | Bitfountain Autolayout tutorials (incomplete; didn't have a patience to figure out what they do) |
+| [nsscreencast](nsscreencast/) | NSScreencasts |
+
