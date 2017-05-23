@@ -16,6 +16,11 @@
 require "mechanize"
 require "parallel"
 
+if ARGV.len != 3
+	STDERR.puts "usage: ./download-nsscreencast.rb <email> <password> <howmany>"
+	exit
+end
+
 puts "mechanize start"
 mechanize = Mechanize.new
 mechanize.get('https://www.nsscreencast.com/login') do |page|
