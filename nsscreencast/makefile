@@ -1,0 +1,2 @@
+all:
+	./download-nsscreencast.rb
